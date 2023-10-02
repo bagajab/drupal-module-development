@@ -1,0 +1,4 @@
+name: 'My First Drupal Module'
+type: module
+description: 'My First Drupal Module created with Acuia Course!'
+core_version_requirement: ^10
